@@ -8,4 +8,10 @@
 ------------
 
 ##### Created a basic binary search tree.
-- 
+###### Methods:
+- addNode()
+- showTree()
+- searchNode()
+- deleteNode()
+- minBts()
+- maxBts()
