@@ -15,3 +15,11 @@
 - deleteNode()
 - minBts()
 - maxBts()
+
+------------
+
+##### Created a basic stack array.
+###### Methods:
+- push()
+- pop()
+- printStack()
