@@ -1,5 +1,7 @@
 # Java-BasicMethods
 
+------------
+
 ##### Created a Linked List method.
 - I did not import any library
 
