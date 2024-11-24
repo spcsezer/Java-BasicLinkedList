@@ -53,8 +53,7 @@ public class stackMain {
         int num = sc.nextInt();
         for(int i = 0; i < num; i++){
             System.out.print("Enter element " + (i + 1) + ": ");
-            int element = sc.nextInt();
-            stack.push(element);
+            stack.push(sc.nextInt());
         }
         while(true){
             System.out.println("Print Stack: 1\nPop an Element: 2\nExit Program: 3");
